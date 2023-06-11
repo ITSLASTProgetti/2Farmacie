@@ -1,0 +1,16 @@
+Useful applications
+
+Nominatim: reverse geocoding (getting coordinates from addresses)
+--> https://nominatim.org/release-docs/develop/
+
+Jupyter Notebook: web IDE for quick code and data inspection (web-based)
+--> https://jupyter.org/
+
+GeoPandas: python library for geo data analysis
+--> https://geopandas.org/en/stable/docs.html
+
+UMap: web service to build and host a custom map (supports various file-type update)
+--> http://umap.openstreetmap.fr/it/
+
+Leaflet: javascript library for interactive maps
+--> https://leafletjs.com/reference.html
